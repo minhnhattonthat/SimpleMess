@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Simple Mess</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">USERNAME:</string>
+    <string name="prompt_email">EMAIL:</string>
+    <string name="prompt_password">PASSWORD:</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">SIGN IN</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="sm_logo">SM_logo</string>
+    <string name="prompt_room_code">ROOM CODE:</string>
+    <string name="prompt_join_room">JOIN ROOM</string>
+    <string name="action_sign_up">SIGN UP</string>
+    <string name="action_sign_in_facebook">Sign in with Facebook</string>
+
+    <string name="facebook_app_id">369893463397929</string>
+    <string name="fb_login_protocol_scheme">fb369893463397929</string>
+    <string name="action_sign_out">SIGN OUT</string>
+    <string name="message_input_text">Input</string>
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "356453593556",
+    "firebase_url": "https://simplemess-1e419.firebaseio.com",
+    "project_id": "simplemess-1e419",
+    "storage_bucket": "simplemess-1e419.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356453593556:android:b9b317f85bdab369",
+        "android_client_info": {
+          "package_name": "com.nhatton.simplemess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356453593556-2bgvke4mp3nm1iosn7ajbuaddbrbslk4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nhatton.simplemess",
+            "certificate_hash": "721217a4d9b4076f974d1cb74c936ac0655a988e"
+          }
+        },
+        {
+          "client_id": "356453593556-qr41bq3ig5jotle2o2b54lacjn1qh0og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyff4-5g8XuwGiVcZJKcV2F560mFkMnYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356453593556-qr41bq3ig5jotle2o2b54lacjn1qh0og.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
